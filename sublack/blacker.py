@@ -176,7 +176,7 @@ class Black:
 
         # black target-vversion
         if self.config.get("black_target_version"):
-            cmd.extend(["--target-version", self.config.black_target_version])
+            cmd.extend(["--target-version", self.config["black_target_version"]])
 
         LOG.debug("command line: %s", cmd)
         return cmd
