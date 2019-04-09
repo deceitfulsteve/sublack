@@ -23,6 +23,7 @@ TEST_BLACK_SETTINGS = {
     "black_blackd_host": "localhost",
     "black_blackd_port": "",
     "black_use_precommit": False,
+    "black_target_version": "py37",
 }
 
 
