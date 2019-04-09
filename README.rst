@@ -12,7 +12,7 @@ sublack
 `Black`_ integration for SublimeText
 
 
-* License : GNU General Public License v3 or later (GPLv3+) 
+* License : GNU General Public License v3 or later (GPLv3+)
 * Source: https://github.com/jgirardet/sublack
 
 
@@ -22,7 +22,7 @@ Installation
 -------------
 
 #. Install `Black`_ min (19.3b0) (if you haven't already)::
-   
+
 	   pip install black # Requires python 3.6
        or pip install black[d] # for blackd support
 
@@ -92,7 +92,7 @@ Sublack will always look for settings in the following order:
 
 Global settings
 *****************
-Preferences -> Package Settings -> sublack -> settings : 
+Preferences -> Package Settings -> sublack -> settings :
 
 Black specifics options
 ++++++++++++++++++++++++
@@ -200,7 +200,7 @@ This plugin is very inspired by the very good `PyYapf <https://github.com/jason-
 Changelog
 -----------
 
-see `install.txt <messages/install.txt>`_ 
+see `install.txt <messages/install.txt>`_
 
 Contributing
 --------------
@@ -225,8 +225,9 @@ contributions by:
 * `catch22 <https://github.com/catch22>`_
 * `Thom1729  <https://github.com/Thom1729>`_
 * `Jacobi Petrucciani  <https://github.com/jpetrucciani>`_
-* `Herr Kaste <https://github.com/kaste>`_ 
+* `Herr Kaste <https://github.com/kaste>`_
 * `Martinj Peters <https://github.com/mjpieters>`_
+* `Steve Petterborg <https://github.com/deceitfulsteve>`_
 
 
 Todo
@@ -238,4 +239,4 @@ Todo
 
 
 
-.. _Black : https://github.com/ambv/black 
+.. _Black : https://github.com/ambv/black
